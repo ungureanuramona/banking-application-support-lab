@@ -1,0 +1,9 @@
+.env
+reports/
+logs/
+
+# Maven build files
+deployment/banking-webapp/target/
+
+# Local WAR backups
+deployment/backups/
